@@ -31,7 +31,7 @@ En la inmensa mayoria de los casos un proyecto va a necesitar un cerebro, que en
 
   - Por ultimo, hacer una mencion a las microcomputadoras como las raspberry PI o las beaglebone que directamente pueden correr un sistema operativo. Tambien existen las FPGA que son bastante mas complejas pero tienen aplicaciones muy interesantes
 
-- <ins>Sobre electronica general:</ins> Ademas de necesitar un cerebro, nosotros pretendemos que nuestro proyecto haga cosas. Para esto vamos a necesitar sensores, actuadores y una forma de que todo esto se comunique con nuestro microcontrolador. Es decir, vamos a necesitar un circuito electronico. En el vamos a poner nuestras resistencias, capacitores, transistores y demas que nos van a permitir lograr cosas. Para diseñar un circuito electronico y su posterior PCB (placa donde van a estar nuestros componentes) recomiendo la herramienta [Kicad](https://www.kicad.org/). Aca hay dos opciones, diseñar el PCB y fabricarlo (o mandarlo a fabricar) o bien armarlo en una placa experimental. 
+- <ins>Sobre electronica general:</ins> Ademas de necesitar un cerebro, nosotros pretendemos que nuestro proyecto haga cosas. Para esto vamos a necesitar sensores, actuadores y una forma de que todo esto se comunique con nuestro microcontrolador. Es decir, vamos a necesitar un circuito electronico. En el vamos a poner nuestras resistencias, capacitores, transistores y demas que nos van a permitir lograr cosas. Para diseñar un circuito electronico y su posterior PCB (placa donde van a estar nuestros componentes) recomiendo la herramienta [Kicad](https://www.kicad.org/). Aca hay dos opciones, diseñar el PCB y fabricarlo (o mandarlo a fabricar, por ejemplo al LCI) o bien armarlo en una placa experimental. 
 
 ### Software
 
@@ -53,10 +53,33 @@ Aca va un listado de proyectos que se empezaron y les vendria bien una mano.
 
 - [Skil](https://github.com/cdrfiuba/skil)
 
+## TODO 
+
+- Cambiar los leds de Marciano a Leds RGB para que tenga mas emociones (rojo enojado, rosa enamorado, verde contento, etc).
+- Darle voz a Marciano, se pueden usar [estos modulitos](https://wiki.dfrobot.com/dfplayer_mini_sku_dfr0299), se consiguen en argentina, son bien baratos y faciles de usar.
+- Hacer Mini Marcianos.
+- Usar los Mbed para hacer mas (o directamente renovar la flota) autitos para eventos.
+
+## Ideas interesantes
+
+Algunas ideas de proyectos propuestas por Cin.
+
+- Lampara Flotante ([Inspiracion](https://youtu.be/WE8mrr-9RCw?si=0B6-qSUo4gev45Z_))
+- Robot Estabilizador 
+- Equilibrista
+- Ascensor
+- Mini Arcade 
+- pov pero desde otro angulo (mas como un ventilador) ([Inspiracion](https://ventilastation.protocultura.net/))
+- Mano robótica 
+- Maceta Robot (indica cuando la planta necesita agua) 
+- Perro Robot (no el de la Uade)
+- Maquina de la Garrita 
+
 ## Tutoriales utiles
 
 - [Tutoriales de arduino](https://www.arduino.cc/en/Tutorial/HomePage/)
 - [Tutorial de soldadura](https://www.youtube.com/watch?v=6rmErwU5E-k&t=256s)
+- [Perifericos de comunicacion de un arduino (UART,I2C,SPI)](https://www.seeedstudio.com/blog/2019/11/07/arduino-communication-peripherals-uart-i2c-and-spi/)
 - [Trucos con circuitpython](https://github.com/todbot/circuitpython-tricks)
 
 ## Bibliografia interesante
