@@ -4,7 +4,7 @@ Hola! Si estas leyendo estas palabras es muy probable que seas un nuevo miembro 
 
 ## Sobre el club
 
-El Club de Robótica es un espacio propuesto por Ingenieros y estudiantes para la investigacion y el desarrollo de prototipos y actividades en robotica. La filosofía del Club consiste en emplear los conocimientos adquiridos a lo largo de la carrera y combinarlos con la motivación y la participación activa de cada uno de sus integrantes. De ese modo se busca conjugar creatividad, dinamismo y acción que brindan como resultado proyectos reales.
+El Club de Robótica es un espacio propuesto por estudiantes, docentes e ingenieros para la investigacion y el desarrollo de prototipos y actividades en robotica. La filosofía del Club consiste en emplear los conocimientos adquiridos a lo largo de la carrera y combinarlos con la motivación y la participación activa de cada uno de sus integrantes. De ese modo se busca conjugar creatividad, dinamismo y acción que brindan como resultado proyectos reales.
 
 ## Informacion general
 
@@ -27,7 +27,7 @@ En la inmensa mayoria de los casos un proyecto va a necesitar un cerebro, que en
 
   - Hoy en dia el boom de la comunidad Arduino ha hecho que su uso sea extremadamente simple (no hay que perder horas y horas leyendo hojas de datos) por lo que las placas de desarrollo de la familia Arduino (Uno, Mega, Nano, Due, Leonardo) son un mas que aceptable punto de arranque para hacer cualquier cosa. 
 
-  - Tambien hay otras opciones mas potentes como los microcontroladores de 32 bits de las lineas ESP32 y Raspberry PI Pico, que pueden incluir opciones de conectividad wifi o bluetooth, ademas de mas memoria y mas perifericos.
+  - Tambien hay otras opciones mas potentes como los microcontroladores de 32 bits de las lineas ESP32, Raspberry PI Pico y Mbed, que pueden incluir opciones de conectividad wifi o bluetooth, ademas de mas memoria y mas perifericos.
 
   - Por ultimo, hacer una mencion a las microcomputadoras como las raspberry PI o las beaglebone que directamente pueden correr un sistema operativo. Tambien existen las FPGA que son bastante mas complejas pero tienen aplicaciones muy interesantes
 
